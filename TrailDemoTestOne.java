@@ -1,8 +1,5 @@
 package linkedListEx;
 
-//http://www.eecs.qmul.ac.uk/~mmh/DCS128/notes/altArrayLists1.html
-//http://www.eecs.qmul.ac.uk/~mmh/DCS128/notes/code/linkedlists/MyArrayList5.java
-
 public class TrailDemoTestOne {
 public static void main(String[] args) {
 DemoTestOne<Integer> one = new DemoTestOne<>();
